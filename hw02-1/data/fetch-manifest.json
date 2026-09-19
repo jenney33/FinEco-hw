@@ -1,0 +1,186 @@
+{
+  "retrieved_at": "2026-09-18T17:47:28",
+  "akshare_version": "1.18.39",
+  "sample_window": [
+    "2021-01-01",
+    "2026-09-16"
+  ],
+  "extra_start": "2020-12-30（样本开始前最后一个交易日附近，用于计算首个交易日收益率）",
+  "primary_price_source": "腾讯财经（stock_zh_a_hist_tx）",
+  "cross_check_source": "东方财富（stock_zh_a_hist，如遇限流则记录不可用）",
+  "market_cap_source": "百度股市通（stock_zh_valuation_baidu，单位：亿元）",
+  "files": [
+    {
+      "file": "data/raw/tx_daily_600036_raw.csv",
+      "rows": 1386,
+      "sha256": "a9959dbafd941cacb5e2ca0f834009d242c87e27e26d793e9a155e4e8cf788b5"
+    },
+    {
+      "file": "data/raw/tx_daily_600036_hfq.csv",
+      "rows": 1386,
+      "sha256": "d161bb24451d09bd358c9608506490a391868e78f5fb01ea68683dae2d28897c"
+    },
+    {
+      "file": "data/raw/tx_daily_600519_raw.csv",
+      "rows": 1386,
+      "sha256": "0cfb64621cc15e142a1c34b0a0718f2d6e11a278bca8561d66e96ab4652f4b8b"
+    },
+    {
+      "file": "data/raw/tx_daily_600519_hfq.csv",
+      "rows": 1386,
+      "sha256": "e1a2bd8b8b0f3915098df0fc5e0d450517f73479704e7ca29734c5e2b9fe22bd"
+    },
+    {
+      "file": "data/raw/tx_daily_000333_raw.csv",
+      "rows": 1386,
+      "sha256": "7e00e8366089a73a895701f21c4df8371464a761181d18065e5c6691036a1e35"
+    },
+    {
+      "file": "data/raw/tx_daily_000333_hfq.csv",
+      "rows": 1386,
+      "sha256": "bbe7db1bf5da1c488683f42ae1fa244a8f674c20c582611dcbe44dcb36a657b1"
+    },
+    {
+      "file": "data/raw/tx_daily_000651_raw.csv",
+      "rows": 1386,
+      "sha256": "06cfdd13e6e30738fb3470b2be556cc6b9ee4698c8970e711217aa1cf36e8c78"
+    },
+    {
+      "file": "data/raw/tx_daily_000651_hfq.csv",
+      "rows": 1386,
+      "sha256": "c3ff0f144a8b5149490cfd93042adf08bba379defae5c0c21477bf49da066bc4"
+    },
+    {
+      "file": "data/raw/tx_daily_002594_raw.csv",
+      "rows": 1386,
+      "sha256": "63596a2e5363dbb3cda8c52c87b0e2fa452d69d1898e068d7e6be31a496bccc4"
+    },
+    {
+      "file": "data/raw/tx_daily_002594_hfq.csv",
+      "rows": 1386,
+      "sha256": "a50d330c4f38714f76301a26ae06ecfabfd5d6d1d7fd33a5a4463d98de260b2e"
+    },
+    {
+      "file": "data/raw/tx_daily_600030_raw.csv",
+      "rows": 1380,
+      "sha256": "25d2a6de3b411298f9f8d9fd6b1ff9802ef31c5626cec342faef1897763aa0d9"
+    },
+    {
+      "file": "data/raw/tx_daily_600030_hfq.csv",
+      "rows": 1380,
+      "sha256": "23a0e10c2e7c50e670fc3bb87b72002504b017d62f94fefbb2ee76d05a9904b2"
+    },
+    {
+      "file": "data/raw/tx_daily_600276_raw.csv",
+      "rows": 1386,
+      "sha256": "a566efc380faeeb7b0fdabbe01d1926c5fd85fe9d37cced38953b6375732ec15"
+    },
+    {
+      "file": "data/raw/tx_daily_600276_hfq.csv",
+      "rows": 1386,
+      "sha256": "e51c348642971ab6fb1b493a7cb7f8a3229d46a9458410ec6b8074c66fd3504f"
+    },
+    {
+      "file": "data/raw/tx_daily_601012_raw.csv",
+      "rows": 1386,
+      "sha256": "475e8712bd8a01d0f047e922d876f1f08ed7e9f594de8ded47496b477e3331e5"
+    },
+    {
+      "file": "data/raw/tx_daily_601012_hfq.csv",
+      "rows": 1386,
+      "sha256": "532cd73951cabf56c40276184b06e91a9d2d06c569d4a655077b312abdfe5082"
+    },
+    {
+      "file": "data/raw/tx_daily_600900_raw.csv",
+      "rows": 1375,
+      "sha256": "cbd8ef99f1f496c9d5cd49cfc633393242afec16806485ef65cf667cf0d3f8ae"
+    },
+    {
+      "file": "data/raw/tx_daily_600900_hfq.csv",
+      "rows": 1375,
+      "sha256": "aa789589ef4ecfa8cf8aa574ad374471d27d45f66b4a78b5c67d026b89f6b747"
+    },
+    {
+      "file": "data/raw/tx_daily_002230_raw.csv",
+      "rows": 1386,
+      "sha256": "133732bf5e55e0cb59651b50562b12b6649097da109036fc6c0688f9772b73a4"
+    },
+    {
+      "file": "data/raw/tx_daily_002230_hfq.csv",
+      "rows": 1386,
+      "sha256": "f4df5dff392ded6ad288bcbdf84eeacbe0da3df6e5f9df98b8afbf13a4757ca5"
+    },
+    {
+      "file": "data/raw/baidu_mv_600036.csv",
+      "rows": 731,
+      "sha256": "4ff9e057bde738403adbf6eb3f51b9648aceb90a694bc0c403ee7655467160ee"
+    },
+    {
+      "file": "data/raw/baidu_mv_600519.csv",
+      "rows": 731,
+      "sha256": "58a52e3846d7fd2f9871498c9179115f6828b96fe6fa1b9860e0c4307b44a413"
+    },
+    {
+      "file": "data/raw/baidu_mv_000333.csv",
+      "rows": 731,
+      "sha256": "7e895d9c6c9ddd09befdb22025e50f427af80ffca55f2df22ac92a3fb6f3568f"
+    },
+    {
+      "file": "data/raw/baidu_mv_000651.csv",
+      "rows": 731,
+      "sha256": "6eced21e8dda63f23614cc0c70ba0aefe0baa5fbedb0fc0767f88ef7b4cda827"
+    },
+    {
+      "file": "data/raw/baidu_mv_002594.csv",
+      "rows": 731,
+      "sha256": "bfccee7897adc7c4ddff38457f891ad5023d4ad309302b17ccb13e9b5eaa8e7b"
+    },
+    {
+      "file": "data/raw/baidu_mv_600030.csv",
+      "rows": 731,
+      "sha256": "c728ae58c86141f399b4e99a6d6aac9fc8405ec9b5a845049dbff3fb436356fe"
+    },
+    {
+      "file": "data/raw/baidu_mv_600276.csv",
+      "rows": 731,
+      "sha256": "c6624253aed0248133bdabee1dae878e43dc36523e258e1a824e89ff8537a974"
+    },
+    {
+      "file": "data/raw/baidu_mv_601012.csv",
+      "rows": 731,
+      "sha256": "eb47b4258e1567e614c9b8a7b31224dd4f15ac72998ecfe44789ac38b9b69cb9"
+    },
+    {
+      "file": "data/raw/baidu_mv_600900.csv",
+      "rows": 731,
+      "sha256": "50230e3e4eaaac7ea58f825e822653719587a5f78aa2399a218acfd829fa9362"
+    },
+    {
+      "file": "data/raw/baidu_mv_002230.csv",
+      "rows": 731,
+      "sha256": "87faf08e6c08a8067030c45755a1ae475262de2abc64ad106b0ddedc8f00c39a"
+    }
+  ],
+  "errors": [
+    "东财 600036 raw: ProxyError（限流，未获取）",
+    "东财 600036 hfq: ProxyError（限流，未获取）",
+    "东财 600519 raw: ProxyError（限流，未获取）",
+    "东财 600519 hfq: ProxyError（限流，未获取）",
+    "东财 000333 raw: ProxyError（限流，未获取）",
+    "东财 000333 hfq: ProxyError（限流，未获取）",
+    "东财 000651 raw: ProxyError（限流，未获取）",
+    "东财 000651 hfq: ProxyError（限流，未获取）",
+    "东财 002594 raw: ProxyError（限流，未获取）",
+    "东财 002594 hfq: ProxyError（限流，未获取）",
+    "东财 600030 raw: ProxyError（限流，未获取）",
+    "东财 600030 hfq: ProxyError（限流，未获取）",
+    "东财 600276 raw: ProxyError（限流，未获取）",
+    "东财 600276 hfq: ProxyError（限流，未获取）",
+    "东财 601012 raw: ProxyError（限流，未获取）",
+    "东财 601012 hfq: ProxyError（限流，未获取）",
+    "东财 600900 raw: ProxyError（限流，未获取）",
+    "东财 600900 hfq: ProxyError（限流，未获取）",
+    "东财 002230 raw: ProxyError（限流，未获取）",
+    "东财 002230 hfq: ProxyError（限流，未获取）"
+  ]
+}

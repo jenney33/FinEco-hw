@@ -1,0 +1,9 @@
+# CSMAR 受限数据不上传
+hw02-2/data/raw/
+hw02-2/data/processed/
+
+# 系统与缓存
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
