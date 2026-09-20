@@ -15,9 +15,9 @@ md("""# HW02-1：股票收益与组合风险分析
 - 姓名：黄翌珊
 - 学号：24360023
 - 作业简介或教师作业页面链接：[HW02 作业页面](https://lianxhcn.github.io/FinEco/exercises/hw-02.html)
-- 个人 GitHub 仓库访问地址：（待填写：`https://github.com/<用户名>/FinEco-hw`）
-- HW02-1 目录链接：（待填写）
-- HW02-2 目录链接：（待填写）
+- 个人 GitHub 仓库访问地址：[https://github.com/jenney33/FinEco-hw](https://github.com/jenney33/FinEco-hw)
+- HW02-1 目录链接：[hw02-1](https://github.com/jenney33/FinEco-hw/tree/main/hw02-1)
+- HW02-2 目录链接：[hw02-2](https://github.com/jenney33/FinEco-hw/tree/main/hw02-2)
 - 数据来源、获取日期与样本期间：腾讯行情接口（AKShare `stock_zh_a_hist_tx`，不复权与后复权日线，2026-09-18 下载）；百度股市通历史总市值（AKShare `stock_zh_valuation_baidu`，2026-09-18 下载）；行业分类为申万一级行业（AKShare `sw_index_first_info` / `index_component_sw`，2026-09-18 核验）。样本期间 **2021-01-01 至 2026-09-16**，另取 2020-12-30/31 两个交易日用于计算首个交易日收益率。
 - AI 使用声明：使用了 WorkBuddy（AI 助手）辅助搭建运行环境、编写数据获取脚本与 Notebook 代码初稿；本人逐单元核验了数据口径、计算逻辑与图表，并手动复核了关键统计量（组合年化收益、最大回撤、相关系数）。对话链接暂无法分享。
 

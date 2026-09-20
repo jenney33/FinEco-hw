@@ -14,9 +14,9 @@ md("""# HW02-2：房地产上市公司财务特征分析
 - 姓名：黄翌珊
 - 学号：24360023
 - 作业简介或教师作业页面链接：[HW02 作业页面](https://lianxhcn.github.io/FinEco/exercises/hw-02.html)
-- 个人 GitHub 仓库访问地址：（待填写）
-- HW02-1 目录链接：（待填写）
-- HW02-2 目录链接：（待填写）
+- 个人 GitHub 仓库访问地址：[https://github.com/jenney33/FinEco-hw](https://github.com/jenney33/FinEco-hw)
+- HW02-1 目录链接：[hw02-1](https://github.com/jenney33/FinEco-hw/tree/main/hw02-1)
+- HW02-2 目录链接：[hw02-2](https://github.com/jenney33/FinEco-hw/tree/main/hw02-2)
 - 数据来源、获取日期与样本期间：CSMAR（中山大学授权）。样本为 **2005—2015 年房地产 A 股上市公司**年度合并报表，另取 2004 年末资产负债表计算平均资产/权益。资产负债表/利润表/股权性质文件/基本信息年度表分两段下载：2004—2013 段（2026-09-20 下载）、2014—2025 段（2026-09-16 下载）。
 - AI 使用声明：使用了 WorkBuddy（AI 助手）辅助编写数据清洗管线与 Notebook 代码初稿；本人核验了字段口径、行业映射与图表结果。
 
