@@ -159,6 +159,61 @@
       "file": "data/raw/baidu_mv_002230.csv",
       "rows": 731,
       "sha256": "87faf08e6c08a8067030c45755a1ae475262de2abc64ad106b0ddedc8f00c39a"
+    },
+    {
+      "file": "data/raw/tx_daily_600036_qfq.csv",
+      "rows": 1386,
+      "sha256": "d88453334601de755e994c5321eae08d59a520201704b05f0c52ab3bf1d72c5d"
+    },
+    {
+      "file": "data/raw/tx_daily_600519_qfq.csv",
+      "rows": 1386,
+      "sha256": "db8cfcf2ce5fb188001f12d51814d07070aa72aa7c283cff70a04f00c484ef97"
+    },
+    {
+      "file": "data/raw/tx_daily_000333_qfq.csv",
+      "rows": 1386,
+      "sha256": "538d9e130cc0239a2a2c57bde4434cbe094dbd6981d7dd2e4039fa1d88341faf"
+    },
+    {
+      "file": "data/raw/tx_daily_000651_qfq.csv",
+      "rows": 1386,
+      "sha256": "687d90aaca9fbe24a956386fa3e172feab76cef79adb38f2bc09227991dfb05a"
+    },
+    {
+      "file": "data/raw/tx_daily_002594_qfq.csv",
+      "rows": 1386,
+      "sha256": "98b16b3a25371701aa79d6823d173e9d1f190183d5c64ff6b56ac467a05f9a21"
+    },
+    {
+      "file": "data/raw/tx_daily_600030_qfq.csv",
+      "rows": 1380,
+      "sha256": "ae8b8be6d5f35c39ec36b1fc015d77afc1601b97d45e70463121ce7a92ab40a4"
+    },
+    {
+      "file": "data/raw/tx_daily_600276_qfq.csv",
+      "rows": 1386,
+      "sha256": "e85fd1c589ca45f878e432b4c0c42b718dca16cd2ed94e407941099217b04835"
+    },
+    {
+      "file": "data/raw/tx_daily_601012_qfq.csv",
+      "rows": 1386,
+      "sha256": "9a38b37fb2dc1aeed51221a87327272a680d6b1fbf7691022ba6e71a1d12b09c"
+    },
+    {
+      "file": "data/raw/tx_daily_600900_qfq.csv",
+      "rows": 1375,
+      "sha256": "fbaea3fb118fc547e4ae5e3ef9b5d032b5d4f6bc330a0c06b6cf618c5abfa4e7"
+    },
+    {
+      "file": "data/raw/tx_daily_002230_qfq.csv",
+      "rows": 1386,
+      "sha256": "a31a2506b63c019fc101c4c6a4b78e05f73c6ba16480d6686c8654c4a88f3244"
+    },
+    {
+      "file": "data/raw/tx_div_events.csv",
+      "rows": 73,
+      "sha256": "48bedf73fdb80f3a363e50708bda47e9c9a9cb76143f6536697848bc3824a439"
     }
   ],
   "errors": [
@@ -182,5 +237,6 @@
     "东财 600900 hfq: ProxyError（限流，未获取）",
     "东财 002230 raw: ProxyError（限流，未获取）",
     "东财 002230 hfq: ProxyError（限流，未获取）"
-  ]
+  ],
+  "qfq_appended_at": "2026-10-11T23:57:20"
 }
