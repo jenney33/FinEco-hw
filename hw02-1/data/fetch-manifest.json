@@ -214,6 +214,76 @@
       "file": "data/raw/tx_div_events.csv",
       "rows": 73,
       "sha256": "48bedf73fdb80f3a363e50708bda47e9c9a9cb76143f6536697848bc3824a439"
+    },
+    {
+      "file": "data/raw/sina_daily_600036_hfq.csv",
+      "rows": 1407,
+      "range": "2020-12-01 ~ 2026-09-16",
+      "source": "AKShare stock_zh_a_daily（新浪）, adjust='hfq'",
+      "sha256": "d1517210918b99a44a9a82880b8d3706ff29afa598f20c5999eec32fc58f2b49"
+    },
+    {
+      "file": "data/raw/sina_daily_600519_hfq.csv",
+      "rows": 1407,
+      "range": "2020-12-01 ~ 2026-09-16",
+      "source": "AKShare stock_zh_a_daily（新浪）, adjust='hfq'",
+      "sha256": "e89046b24c3af1abdb2183f8b35ffa916f8b79e7468b15e2245269ec39d7c68c"
+    },
+    {
+      "file": "data/raw/sina_daily_000333_hfq.csv",
+      "rows": 1407,
+      "range": "2020-12-01 ~ 2026-09-16",
+      "source": "AKShare stock_zh_a_daily（新浪）, adjust='hfq'",
+      "sha256": "13510833f40fb7d998c537b5e0582f7d445be8529a18e6aac67ecbd1607edba2"
+    },
+    {
+      "file": "data/raw/sina_daily_000651_hfq.csv",
+      "rows": 1407,
+      "range": "2020-12-01 ~ 2026-09-16",
+      "source": "AKShare stock_zh_a_daily（新浪）, adjust='hfq'",
+      "sha256": "0076cab31f3407ee86e542330841516c0a72d57b942e161d54684e94ae1d3f44"
+    },
+    {
+      "file": "data/raw/sina_daily_002594_hfq.csv",
+      "rows": 1407,
+      "range": "2020-12-01 ~ 2026-09-16",
+      "source": "AKShare stock_zh_a_daily（新浪）, adjust='hfq'",
+      "sha256": "70b56eedf367fb29d2a7ced2e7bfce9a28457a60ec43f3bbb94f6e531949bb9f"
+    },
+    {
+      "file": "data/raw/sina_daily_600030_hfq.csv",
+      "rows": 1401,
+      "range": "2020-12-01 ~ 2026-09-16",
+      "source": "AKShare stock_zh_a_daily（新浪）, adjust='hfq'",
+      "sha256": "29bbc14086faaf469c9da586a9a0ae7cf14dcbeb5dc4d1e50745fabb77c2f319"
+    },
+    {
+      "file": "data/raw/sina_daily_600276_hfq.csv",
+      "rows": 1407,
+      "range": "2020-12-01 ~ 2026-09-16",
+      "source": "AKShare stock_zh_a_daily（新浪）, adjust='hfq'",
+      "sha256": "3158c2965a34890447770faf7cfc2e1d8d98e204a5d9c104768ae261fd0e63b6"
+    },
+    {
+      "file": "data/raw/sina_daily_601012_hfq.csv",
+      "rows": 1407,
+      "range": "2020-12-01 ~ 2026-09-16",
+      "source": "AKShare stock_zh_a_daily（新浪）, adjust='hfq'",
+      "sha256": "84a8f54507e4c0c2976408c378ea6743a65dd4ceeaf5afa354399b12d335e12e"
+    },
+    {
+      "file": "data/raw/sina_daily_600900_hfq.csv",
+      "rows": 1396,
+      "range": "2020-12-01 ~ 2026-09-16",
+      "source": "AKShare stock_zh_a_daily（新浪）, adjust='hfq'",
+      "sha256": "21f2a3837b59d3127c5b5d336a28ab3a5a35c32cce65ee55a2c8f86e365bdcff"
+    },
+    {
+      "file": "data/raw/sina_daily_002230_hfq.csv",
+      "rows": 1407,
+      "range": "2020-12-01 ~ 2026-09-16",
+      "source": "AKShare stock_zh_a_daily（新浪）, adjust='hfq'",
+      "sha256": "53838bbae53b1c6ff2924bd97d151159279b7990eea05a86178356f67bbdb88b"
     }
   ],
   "errors": [
